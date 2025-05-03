@@ -65,11 +65,3 @@ This is a MERN (MongoDB, Express, React, Node.js) stack application for tracking
 
 - `backend/`: Contains the Express server, API routes, and MongoDB models.
 - `frontend/`: Contains the React application source code and public assets.
-
-## Contributing
-
-Contributions are welcome! Feel free to open issues or submit pull requests.
-
-## License
-
-This project is open source and available under the MIT License.
